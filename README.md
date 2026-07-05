@@ -1,4 +1,5 @@
-# Cognifyz Week 1 - Task 1 & Task 2 (Express + EJS)
+# Cognifyz fullstack project form submission
+(Express + EJS)
 
 ## What this project does
 - Shows a clean HTML form (Task 1 + Task 2) using **EJS**.
